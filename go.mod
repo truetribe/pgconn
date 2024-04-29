@@ -1,4 +1,4 @@
-module github.com/jackc/pgconn
+module github.com/truetribe/pgconn
 
 go 1.17
 
